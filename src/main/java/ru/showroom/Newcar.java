@@ -53,6 +53,6 @@ public class Newcar {
         this.price = price;
     }
     public String getDetails(){
-        return "\n model: " + model +"\n" + " year: " + year +"\n" + " mileage : " + mileage +"\n" + " state : " + state + "\n" + " price : " + price;
+        return "\n model: " + model +"\n" + " year: " + year +"\n" + " mileage : " + mileage +"\n" + " state : " + state + "\n" +   " price : " + price;
     }
 }
